@@ -17,7 +17,7 @@ This project uses the **MAX30102 pulse oximeter and heart rate sensor** in combi
 
 - **Server**: [Heartbeat Sensor Web Application](serverlink)  
 - **Design Video**: [Project Video](videolink)
-- **Particle Video**: [Particle Video](videolink)
+- **Particle Video**: [Particle Video](https://youtu.be/_jSMzIh8_gE)
 - **Video Pitch**: [Video Pitch](https://youtu.be/w6FfYUQzzC8)
 - **Documentation** [Documentation](https://docs.google.com/document/d/1ddRWPld84Oiazog44HAjbyW7NMegbkZZd0ZjnF1PSaQ/edit?usp=sharing)
   
